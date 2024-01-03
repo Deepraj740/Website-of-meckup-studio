@@ -1,0 +1,152 @@
+#nav a {
+  color: white;
+}
+#nav a:hover {
+  color: #d56;
+}
+.main-heading {
+  font-size: 48px;
+  font-weight: 800px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* why us*/
+#whyus .row .col-md-4 {
+  font-size: 20px;
+  width: 32%;
+  background-color: antiquewhite;
+  border-radius: 5px;
+  box-shadow: 8px 8px 8px gray;
+  padding: 10px;
+  text-align: center;
+}
+#whyus .row {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* about us*/
+#aboutus {
+  margin-top: 60px;
+  text-align: center;
+}
+.aboutus-heading {
+  font-size: 48px;
+  font-weight: 800px;
+}
+.aboutus-text {
+  font-size: 18px;
+}
+.aboutus-img {
+  border-radius: 15px;
+  padding: 5px;
+}
+/*gallary*/
+.gallaryimg {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  box-shadow: 8px 8px 8px gray;
+  padding: 10px;
+}
+#gallary .row .col-md-12 {
+  color: rgb(20, 18, 18);
+
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+#gallary .col-md-4,
+.col-md-6 {
+  padding: 20px;
+}
+
+.gallaryvideo {
+  width: 100%;
+  height: 300px;
+  margin-top: 60px;
+  box-shadow: 8px 8px 8px gray;
+  border-radius: 15px;
+  padding: 5px;
+}
+/*gallary*/
+#testimonals {
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: 10px;
+}
+.testitext {
+  text-align: center;
+  padding-top: 20px;
+  text-transform: capitalize;
+}
+.testitext h1 {
+  color: red;
+  font-weight: 900;
+  padding-top: 20px;
+}
+.testitext h2 {
+  font-weight: 800;
+}
+.testitext p {
+  font-weight: 400px;
+}
+.testiimg {
+  border-radius: 10px;
+}
+/*contact us*/
+
+.contactpng {
+  width: 70px;
+  height: 50px;
+  margin-top: 40px;
+}
+#contact-us {
+  text-align: center;
+  background-color: whitesmoke;
+}
+#contact-us .col-md-3 {
+  border-right: solid 1px silver;
+  padding: 20px;
+  box-shadow: 5px 5px 5px silver;
+}
+#contact-us .col-md-3 h3 {
+  padding-top: 40px;
+}
+.map {
+  margin-top: 40px;
+  border: 1px solid silver;
+}
+/*footer*/
+#firstfooter {
+  color: white;
+  background-color: black;
+  padding: 30px;
+}
+#firstfooter ul {
+  list-style: none;
+  text-decoration: none;
+}
+#firstfooter .liheading {
+  font-weight: bold;
+  padding-bottom: 8px;
+}
+#firstfooter h6 {
+  font-weight: bold;
+}
+#firstfooter a {
+  text-decoration: none;
+  color: white;
+}
+#firstfooter a:hover {
+  color: #d56;
+}
+#lastfooter {
+  background-color: #d56;
+  height: 40px;
+  color: white;
+  padding-top: 10px;
+  text-align: right;
+}
